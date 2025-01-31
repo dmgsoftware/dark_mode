@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cnbnqld2paju8"]
 
-[ext_resource type="Script" path="res://addons/dark_mode/dark_mode.gd" id="1_6v5hn"]
+[ext_resource type="Script" uid="uid://cdogpe8fdgdg6" path="res://addons/dark_mode/dark_mode.gd" id="1_6v5hn"]
 
 [node name="DarkMode" type="Node"]
 script = ExtResource("1_6v5hn")
